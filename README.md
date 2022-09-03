@@ -1,1 +1,1 @@
-# Sybol-Recognition-
+#daily devlopment
