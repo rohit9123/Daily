@@ -13,7 +13,6 @@ import useHttp from "../hooks/use-http";
 import { getSingleQuote } from "../lib/api";
 import LoadingSpinner from "../components/UI/LoadingSpinner";
 const QuoteDetails = () => {
-  // console.log("a");
   const match = useRouteMatch();
   console.log(match);
   const history = useHistory();

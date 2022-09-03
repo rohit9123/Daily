@@ -36,7 +36,7 @@ const emailReducer = (state, action) => {
 // state-> state snapshot used in the component re-render
 // dispatchfn-> dispatch function used to dispatch the action
 // reducerFn-> reducer function A function that is triggered automatically once a action is dispatched
-//via dispatchfn it reciver the latest state snaoshot and should return the new state
+//via dispatchfn it reciver the latest state snapshot and should return the new state
 //initFn-> a function to set the intial state programtically like loading the data from database
 
 const Login = (props) => {
